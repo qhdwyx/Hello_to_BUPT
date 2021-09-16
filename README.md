@@ -1,4 +1,4 @@
-<h2 align="center">:helicopter:北邮疫情自动填报（Python+Github Actions）长期维护</h2>
+<h2 align="center">:helicopter:北邮疫情自动填报（Python+Github Actions）copy别人的</h2>
 <p align="center">
     <a href="https://github.com/zzp-seeker/bupt-ncov-auto-report/actions/workflows/main.yml">
         <img src="https://github.com/zzp-seeker/bupt-ncov-auto-report/actions/workflows/main.yml/badge.svg?branch=master" alt="Action Badge">
@@ -7,7 +7,8 @@
 </p>
 
 
-
+##原来链接：
+https://github.com/zzp-seeker/bupt-ncov-auto-report
 ## 特点：
 
 - 每天7-8点自动多次填报（可通过main.yml修改）
